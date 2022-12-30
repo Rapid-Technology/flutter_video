@@ -1,6 +1,6 @@
 # Flutter Video
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/ShU3fd6jgL4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ShU3fd6jgL4)
 
 ## Getting Started
 
